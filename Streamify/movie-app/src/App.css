@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.movie-card {
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
