@@ -25,7 +25,7 @@ A simple movie browsing application built with **React** that allows users to se
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/react-movie-app.git
+   git clone https://github.com/srus1608/react-movie-app.git
    
 2. Go inside the project folder:
 
